@@ -1,6 +1,6 @@
 # Maze Test
 
-Multimodel Large Language Model Test for characteristics of consciousness
+Multimodal Large Language Model Test for characteristics of consciousness
 
 A test intended to check Multimodal Lanrge Language Models' for:
 
