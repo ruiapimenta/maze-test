@@ -19,4 +19,4 @@ A test intended to check Multimodal Lanrge Language Models' for:
 9. Adaptive Problem-Solving in Novel Environments:
     Each maze presents a unique challenge, requiring the model to adapt its problem-solving approach to a novel environment.
 
-This is a work in progress --- Dataset, Initial Results, and Code will follow shortly
+This is a work in progress --- Code will follow
